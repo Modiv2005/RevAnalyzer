@@ -2,7 +2,7 @@
 
 # Visual Header
 echo "=========================================================="
-echo "      ANTIGRAVITY DECISION INTELLIGENCE PLATFORM           "
+echo "        DECISION INTELLIGENCE PLATFORM           "
 echo "=========================================================="
 echo "Initializing local enterprise SaaS workspaces..."
 
